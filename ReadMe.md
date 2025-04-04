@@ -76,4 +76,4 @@ This is an interactive **Streamlit web app** that uses **Google Gemini AI** to i
 - **SANTIAGO RUIZ**  
 - **GIZELA THOMAS**
 
-´´´
+````
