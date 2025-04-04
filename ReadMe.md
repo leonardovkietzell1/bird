@@ -1,3 +1,5 @@
+```plaintext
+
 # 🕊️ Bird Identifier + Travel Assistant
 
 ## **Project Overview**
@@ -34,8 +36,6 @@ This is an interactive **Streamlit web app** that uses **Google Gemini AI** to i
 
 ## **Project Structure**
 
-```plaintext
-.
 ├── main.py                       # Main Streamlit app
 ├── requirements.txt              # Python dependencies
 ├── api.env                       # API keys (excluded from version control)
@@ -75,3 +75,5 @@ This is an interactive **Streamlit web app** that uses **Google Gemini AI** to i
 - **SANTIAGO BOTERO**  
 - **SANTIAGO RUIZ**  
 - **GIZELA THOMAS**
+
+´´´
